@@ -14,7 +14,7 @@ npm install --save @anacr/react-use-sw-quote
 
 ```jsx
 import React from "react";
-import { useStarWarsQuote } from "@jsjoeio/react-use-sw-quote";
+import { useStarWarsQuote } from "@anacr/react-use-sw-quote";
 
 const App = () => {
   const { quote, loading } = useStarWarsQuote("");
